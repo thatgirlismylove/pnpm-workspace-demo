@@ -1,0 +1,4 @@
+packages:
+  # packages 目录下的所有模块
+  - 'packages/*'
+  # - files
